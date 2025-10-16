@@ -32,7 +32,7 @@
 
 ###  Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,cpp,postgres,postman,rest,docker,git,github,linux,django" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,cpp,postgres,postman,docker,git,github,linux,django" />
 </p>
 
 ---
