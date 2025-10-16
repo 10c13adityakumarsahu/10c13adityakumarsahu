@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps and Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-kumar-sahu&label=Profile%20Views&color=0e75b6&style=flat" alt="aditya-kumar-sahu" />
+  <img src="https://komarev.com/ghpvc/?username=10c13adityakumarsahu&label=Profile%20Views&color=0e75b6&style=flat" alt="aditya-kumar-sahu" />
 </p>
 
 ---
@@ -39,9 +39,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-kumar-sahu&show_icons=true&theme=tokyonight" alt="GitHub stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-kumar-sahu&theme=tokyonight" alt="GitHub streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kumar-sahu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=10c13adityakumarsahu&show_icons=true&theme=tokyonight" alt="GitHub stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10c13adityakumarsahu&theme=tokyonight" alt="GitHub streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10c13adityakumarsahu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
