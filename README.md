@@ -22,8 +22,9 @@ Currently working on a Sim2Real Hackathon Platform aimed at reducing friction be
 
 | Area | Technologies |
 | :--- | :--- |
-| Programming | C++, Python, JavaScript (ES6+), HTML5, CSS3 |
-| Backend and Databases | Django, PostgreSQL, MySQL |
+| Programming | C++, Python,JavaScript (ES6+), HTML5, CSS3 |
+| Library and Frameworks | React, Tailwind, FastAPI |
+| Backend and Databases | Django, PostgreSQL, MySQL, Neo4j (Graph DataBase) |
 | DevOps and Infrastructure | Docker, Linux (Bash), Git, GitHub Actions |
 | Tooling and Testing | Selenium, Postman |
 
